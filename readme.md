@@ -4,7 +4,7 @@ This is a feature-rich EV Car landing page built with React.js. The project incl
 
 ## Live Demo
 
-Check out the live demo of the Car Project [here](https://ev-car.netlify.app/).
+Check out the live Website [https://ev-car.netlify.app/](https://ev-car.netlify.app/).
 
 ## Features
 
